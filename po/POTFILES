@@ -1,0 +1,6 @@
+data/com.github.SamuelSchlemper.textViwer.desktop.in
+data/com.github.SamuelSchlemper.textViwer.metainfo.xml.in
+data/com.github.SamuelSchlemper.textViwer.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

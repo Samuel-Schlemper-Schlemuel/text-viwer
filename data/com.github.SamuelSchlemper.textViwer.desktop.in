@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=text-viwer
+Exec=text-viwer
+Icon=com.github.SamuelSchlemper.textViwer
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
