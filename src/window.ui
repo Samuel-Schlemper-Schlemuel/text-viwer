@@ -75,8 +75,8 @@
         <attribute name="action">app.about</attribute>
       </item>
       <item>
-        <attribute name="label" translatable="yes">_Light mode</attribute>
-        <attribute name="action">app.light-mode</attribute>
+        <attribute name="label" translatable="yes">_Change mode</attribute>
+        <attribute name="action">app.change-mode</attribute>
       </item>
     </section>
   </menu>

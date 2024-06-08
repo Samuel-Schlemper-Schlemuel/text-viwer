@@ -153,5 +153,6 @@ class TextViwerWindow(Adw.ApplicationWindow):
             msg = f'Unable to save as “{display_name}"'
         else:
             msg = f'Saved as “{display_name}”'
+            self.set_title(display_name)
 
         self.toast_overlay.add_toast(Adw.Toast(title=msg))
